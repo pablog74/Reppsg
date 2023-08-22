@@ -6,3 +6,13 @@ PortableGit-2.42.0-64-bit.7z.exe
 
 1
 2
+------------
+
+
+
+git add .
+git commit -m "....
+git push -u origin main
+
+git status
+git log
