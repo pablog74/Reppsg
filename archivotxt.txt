@@ -1,0 +1,7 @@
+https://github.com/pablog74/Reppsg.git
+
+https://github.com/git-for-windows/git/releases/tag/v2.42.0.windows.1
+
+PortableGit-2.42.0-64-bit.7z.exe
+
+1
