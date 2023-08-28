@@ -6,8 +6,8 @@
 #sumar elementos de una lista SIN sum
 
 listan = [1, 4, 5, 10]
-suma = 0
-for x in listan:
-    suma = suma + x
-print (suma)
+contador = 0
+for i in listan:
+    contador = contador + i
+print (contador)
 
