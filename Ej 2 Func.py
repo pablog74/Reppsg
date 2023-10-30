@@ -2,10 +2,10 @@ def area_circulo (pi, r):
 
     area=pi * r ** 2
 
-    return  area
+    return area
 
 pi=3.14
-ra=float(input())
+ra=float(input("ingrese el radio"))
 
 resultado=area_circulo (pi, ra)
 
